@@ -1,0 +1,15 @@
+{
+  "name": "bulletinboard",
+  "version": "1.0.0",
+  "description": "CLI app for CRUD data of bulletin board.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yeoularu",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^7.6.2"
+  }
+}
